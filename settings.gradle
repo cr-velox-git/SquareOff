@@ -1,0 +1,2 @@
+rootProject.name = "SquareOff"
+include ':app'
